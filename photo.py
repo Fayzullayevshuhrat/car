@@ -1,0 +1,5 @@
+"C:\\Users\\user\\Pictures\\photo_2025-01-09_13-49-27 (3).jpg"
+"C:\\Users\\user\\Pictures\\photo_2025-01-09_13-49-26 (2).jpg"
+"C:\\Users\\user\\Pictures\\photo_2025-01-09_13-49-26.jpg"
+"C:\\Users\\user\\Pictures\\photo_2025-01-09_13-49-27 (4).jpg"
+"C:\\Users\\user\\Pictures\\photo_2025-01-09_13-49-27 (2).jpg"
